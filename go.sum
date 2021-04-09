@@ -1,0 +1,3 @@
+github.com/jadekler/cycle v1.5.0/go.mod h1:oF9I0LZfo4g+t2ISnHQm8qc1Vd3DzEE5xhb52bp6OUQ=
+github.com/jadekler/cycledep v1.0.3 h1:JFiY6fw82xrn8D9cF5Fzn77NS4+DYoAPWRRr6VEOVto=
+github.com/jadekler/cycledep v1.0.3/go.mod h1:mjB3kwSsHl6qQj9yMmbAZcOiPh0MqNJqk2Q78Oyzi5Q=
